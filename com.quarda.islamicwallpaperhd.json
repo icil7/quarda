@@ -1,11 +1,11 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v20j15",
+"JSON_POPUP_WAIT" : "Server Ready",
 
 "TOAST_NOTIF" : false,
 
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,
 "MODE_BACKUP_ADS" : true,
 
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
